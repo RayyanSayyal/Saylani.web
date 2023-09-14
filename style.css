@@ -8,6 +8,9 @@ ul a{
 ul a:hover{
   color: #ffffff;
   text-decoration: underline blue;
+  transform: scale(1.1);
+  background-color: #747f8d2f;
+  border-radius: 8px;
 }
 img{
   justify-content: center;
